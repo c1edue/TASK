@@ -1,2 +1,2 @@
 # Radius-calc
-homework, a program that counts R and L circles
+homework, a simple program that counts R and L circles
